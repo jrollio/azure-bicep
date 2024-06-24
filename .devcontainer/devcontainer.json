@@ -1,5 +1,5 @@
 {
-	"name": "Azure Bicep (Community)",
+	"name": "Azure",
 	"dockerFile": "Dockerfile",
 
 	// Configure tool-specific properties.
